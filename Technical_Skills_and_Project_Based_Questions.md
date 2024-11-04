@@ -1,19 +1,9 @@
 # Technical Skills and Project-Based Questions
-## 1. What is _Git_ and why is it used?
+## 1. ASP.NET Core and MVC:
+- Can you describe a challenging problem you've encountered while working with ASP.NET Core or ASP.NET MVC, and how you resolved it?
+- How do you handle session management and state in web applications developed in ASP.NET?
 
-**Git** is a decentralized version control system (**DVCS**) that developers primarily use to manage source code across diverse development projects. It ensures better code quality, facilitates teamwork, and provides a robust backup mechanism.
-
-### Benefits of Using Git
-
-- **History and Time Travel**: Git preserves every version of a project, making it possible to roll back changes or inspect code at any point.
-
-- **Security and Integrity**: Each file in Git has a unique SHA-1 hash, which means unauthorized changes are easily detected.
-
-- **Collaboration**: Git allows multiple developers to work on a project simultaneously without conflict.
-
-- **Code Reviews**: Git simplifies the process of reviewing code before it's incorporated into the main codebase.
-
-### Key Concepts
+### Answers
 
 #### Commit
 
