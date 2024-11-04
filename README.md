@@ -14,11 +14,10 @@
 ### Topics
 
 1. [Technical Skills and Project-Based Questions](Technical_Skills_and_Project_Based_Questions.md)
-1. [SOLID Principles](/topics/solid-principles.md)
-1. [Design Patterns](/topics/design-patterns.md)
-1. [Data Structures and Algorithms (DSA)](/topics/data-structures-and-algorithms.md)
-1. [High-Level Design (HLD) Vs. Low-Level Design (LLD)](/topics/high-level-low-level-design.md)
-1. [Monolithic vs Microservices Architecture](/topics/monolithic-vs-microservice-architecture.md)
+1. [Design Patterns and Architecture Questions](Design_Patterns_and_Architecture_Questions.md)
+1. [Team Leadership and Mentoring](Team_Leadership_and_Mentoring.md)
+1. [Problem-Solving and Critical Thinking](Problem_Solving_and_Critical_Thinking.md)
+1. [Domain Knowledge](Domain_Knowledge.md)
 
 ## Authors
 
