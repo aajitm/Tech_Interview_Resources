@@ -4,11 +4,6 @@
 - How do you handle session management and state in web applications developed in ASP.NET?
 
 ### Answers
+- **Challenging Problem**: In a previous project, I faced an issue with session state management when deploying an ASP.NET MVC application on a cloud server. The default in-memory session state wasn’t viable for scalability. I resolved this by implementing a distributed cache using Redis, which allowed session data to be shared across multiple instances of the application. This improved performance and ensured that user sessions remained consistent.
 
-#### Commit
-
-A **commit** represents a saved state of your project. It is a snapshot of all the files in your project at a given point in time. Each commit has a commit message associated with it.
-
-#### Branch
-
-A **branch** is an independent line of development. It allows you to work on a feature or bug fix, isolate it from the rest of the codebase until it is ready, and then merge it back in.
+- **Session Management**: I typically use cookie-based session management for web applications. For applications needing persistent sessions, I prefer using distributed session state providers like SQL Server or Redis, ensuring that session data remains available across server instances.
