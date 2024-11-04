@@ -13,7 +13,7 @@
 
 ### Topics
 
-1. [Oops](/topics/oops.md)
+1. [Technical Skills and Project-Based Questions](Technical_Skills_and_Project_Based_Questions.md)
 1. [SOLID Principles](/topics/solid-principles.md)
 1. [Design Patterns](/topics/design-patterns.md)
 1. [Data Structures and Algorithms (DSA)](/topics/data-structures-and-algorithms.md)
