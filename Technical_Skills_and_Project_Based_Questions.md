@@ -72,8 +72,10 @@
 - How do you handle asynchronous programming in .NET? Can you provide an example where it improved your application's performance?
 - Explain how dependency injection works in ASP.NET Core. How does it improve code maintainability and testability?
 ### Answers
-- **Code Conflicts Management**: I use feature branches in Git to manage code changes, and I follow a clear pull request process for code reviews, ensuring any conflicts are addressed before merging.
-- **Implementing CI/CD**: I set up CI/CD pipelines using Azure DevOps, automating testing and deployment processes for .NET applications. This ensures that code is continuously integrated and delivered, enhancing release frequency and quality.
+- **Handling Asynchronous Programming in .NET**: In .NET, asynchronous programming can be managed using async and await keywords, which prevent blocking the main thread and improve application responsiveness. This is especially useful in I/O-bound operations, such as file access, network requests, or database operations.
+- - **Example:** In one project, I worked on optimizing API calls that were causing high latency due to blocking operations. By converting synchronous methods to asynchronous methods using Task and await, the API was able to handle multiple requests concurrently without waiting for one task to complete before starting another. This improved the performance by reducing response time and allowing the server to handle more simultaneous requests.
+- **Dependency Injection (DI) in ASP.NET Core**: DI is a design pattern in ASP.NET Core that enables the decoupling of classes from their dependencies. By injecting dependencies through constructors or properties, ASP.NET Core allows for easier unit testing and swapping of services, promoting a more modular structure.
+- - **Example:** In a recent application, we utilized DI to manage service dependencies. This allowed us to mock services during testing, isolating specific business logic without requiring a database or actual API calls. By relying on DI, we improved the maintainability and testability of the codebase, as changing implementations (e.g., switching from one database provider to another) only required modifying the service registration in the Startup file, not the entire application.
 
 ## 11. Security Best Practices:
 - What are some common security vulnerabilities in web applications, and how do you mitigate them?
