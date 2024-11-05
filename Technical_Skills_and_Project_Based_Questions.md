@@ -107,15 +107,15 @@
 - How do you ensure quality in your CI/CD process, especially in automated testing?
 ### Answers
 - **Experience with CI/CD Pipelines for .NET Applications**: I have set up CI/CD pipelines using tools like Azure DevOps and Jenkins for .NET applications. The CI/CD process automates the build, test, and deployment stages, enabling faster releases and better code quality.
- - **Example:** In one project, we implemented a CI/CD pipeline in Azure DevOps for an ASP.NET Core application. The pipeline included stages for code compilation, running unit tests, building Docker images, and deploying to an Azure Kubernetes Service (AKS) cluster.
+  - **Example:** In one project, we implemented a CI/CD pipeline in Azure DevOps for an ASP.NET Core application. The pipeline included stages for code compilation, running unit tests, building Docker images, and deploying to an Azure Kubernetes Service (AKS) cluster.
 - **Ensuring Quality in CI/CD with Automated Testing**: I ensure quality in the CI/CD process by integrating automated tests, including unit, integration, and UI tests. Additionally, we used SonarQube to analyze code quality and enforce coding standards.
- - **Example:** In a recent project, we configured a pipeline that executed unit tests after every commit, followed by integration tests in a staging environment. This process helped identify issues early and prevented bugs from reaching the production environment.
+  - **Example:** In a recent project, we configured a pipeline that executed unit tests after every commit, followed by integration tests in a staging environment. This process helped identify issues early and prevented bugs from reaching the production environment.
 
 ## 15. Cloud Architecture and Services:
 - Can you explain how you would architect a cloud-based solution using Azure services? What factors do you consider in your design?
 - Describe a scenario where you optimized an application for cloud deployment. What changes did you make?
 ### Answers
 - **Architecting a Cloud-Based Solution Using Azure**: For a cloud-based solution on Azure, I typically consider factors such as scalability, reliability, and cost-efficiency. My architectural approach usually involves using Azure App Service for web hosting, Azure SQL Database for managed data storage, and Azure Blob Storage for unstructured data.
- - **Example:** In a high-traffic application, we used Azure Front Door to handle global load balancing and Azure Redis Cache to reduce database load by caching frequently accessed data. This architecture ensured high availability, reduced latency, and optimized costs by minimizing resource usage.
+  - **Example:** In a high-traffic application, we used Azure Front Door to handle global load balancing and Azure Redis Cache to reduce database load by caching frequently accessed data. This architecture ensured high availability, reduced latency, and optimized costs by minimizing resource usage.
 - **Optimizing an Application for Cloud Deployment**: When optimizing an application for the cloud, I focused on converting synchronous operations to asynchronous tasks, caching frequently accessed data, and leveraging auto-scaling in Azure to handle peak loads.
- - **Example:** In one application, we shifted from synchronous data access patterns to asynchronous methods and introduced caching using Azure Redis. This approach reduced database calls by up to 30%, improving the response time and reducing overall resource usage, especially during high-traffic periods.
+  - **Example:** In one application, we shifted from synchronous data access patterns to asynchronous methods and introduced caching using Azure Redis. This approach reduced database calls by up to 30%, improving the response time and reducing overall resource usage, especially during high-traffic periods.
