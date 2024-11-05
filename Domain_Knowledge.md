@@ -1,24 +1,15 @@
 # Domain Knowledge
-## 1. What is _Git_ and why is it used?
 
-**Git** is a decentralized version control system (**DVCS**) that developers primarily use to manage source code across diverse development projects. It ensures better code quality, facilitates teamwork, and provides a robust backup mechanism.
+## 1. ERP, WFM, SCM Systems:
+- You’ve worked on ERP and workforce management systems—can you explain some of the complexities or challenges in these domains?
+- How did your domain knowledge in supply chain management (SCM) help you design better software solutions?
+### Answers
+- **Complexities in Domains**: In ERP systems, data integrity and integration with legacy systems present challenges. My experience in these domains helped me design solutions that minimized disruptions and maintained data consistency.
+- **Code Review Process**: My understanding of supply chain management allowed me to suggest features that optimized resource allocation in the Hotel ERP system, which resulted in significant cost savings for the client.
 
-### Benefits of Using Git
-
-- **History and Time Travel**: Git preserves every version of a project, making it possible to roll back changes or inspect code at any point.
-
-- **Security and Integrity**: Each file in Git has a unique SHA-1 hash, which means unauthorized changes are easily detected.
-
-- **Collaboration**: Git allows multiple developers to work on a project simultaneously without conflict.
-
-- **Code Reviews**: Git simplifies the process of reviewing code before it's incorporated into the main codebase.
-
-### Key Concepts
-
-#### Commit
-
-A **commit** represents a saved state of your project. It is a snapshot of all the files in your project at a given point in time. Each commit has a commit message associated with it.
-
-#### Branch
-
-A **branch** is an independent line of development. It allows you to work on a feature or bug fix, isolate it from the rest of the codebase until it is ready, and then merge it back in.
+## 2. Industry-Specific Solutions (Hotel, Retail):
+- How did you address specific business needs in the Hotel ERP and Retail platform projects?
+- What insights or unique approaches did you develop when working on industry-focused solutions?
+### Answers
+- **Addressing Business Needs**: I customized the Hotel ERP system based on client feedback to integrate with external online travel agencies (OTAs), enhancing their market reach and operational efficiency.
+- **Unique Approaches**: In the Zapurse retail project, I implemented Aadhaar-based authentication for utility services, ensuring security and accessibility for rural customers, which contributed to increased user adoption.
