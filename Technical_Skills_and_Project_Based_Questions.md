@@ -67,3 +67,38 @@
 ### Answers
 - **Code Conflicts Management**: I use feature branches in Git to manage code changes, and I follow a clear pull request process for code reviews, ensuring any conflicts are addressed before merging.
 - **Implementing CI/CD**: I set up CI/CD pipelines using Azure DevOps, automating testing and deployment processes for .NET applications. This ensures that code is continuously integrated and delivered, enhancing release frequency and quality.
+
+## 11. Advanced .NET Technologies:
+- How do you handle asynchronous programming in .NET? Can you provide an example where it improved your application's performance?
+- Explain how dependency injection works in ASP.NET Core. How does it improve code maintainability and testability?
+### Answers
+- **Code Conflicts Management**: I use feature branches in Git to manage code changes, and I follow a clear pull request process for code reviews, ensuring any conflicts are addressed before merging.
+- **Implementing CI/CD**: I set up CI/CD pipelines using Azure DevOps, automating testing and deployment processes for .NET applications. This ensures that code is continuously integrated and delivered, enhancing release frequency and quality.
+
+## 11. Security Best Practices:
+- What are some common security vulnerabilities in web applications, and how do you mitigate them?
+- Can you discuss your experience implementing authentication and authorization in ASP.NET applications?
+### Answers
+- **Code Conflicts Management**: I use feature branches in Git to manage code changes, and I follow a clear pull request process for code reviews, ensuring any conflicts are addressed before merging.
+- **Implementing CI/CD**: I set up CI/CD pipelines using Azure DevOps, automating testing and deployment processes for .NET applications. This ensures that code is continuously integrated and delivered, enhancing release frequency and quality.
+
+## 11. Microservices Architecture:
+- Have you worked with microservices? How do you approach designing microservices for scalability and maintainability?
+- What challenges have you faced when transitioning from a monolithic architecture to microservices, and how did you address them?
+### Answers
+- **Code Conflicts Management**: I use feature branches in Git to manage code changes, and I follow a clear pull request process for code reviews, ensuring any conflicts are addressed before merging.
+- **Implementing CI/CD**: I set up CI/CD pipelines using Azure DevOps, automating testing and deployment processes for .NET applications. This ensures that code is continuously integrated and delivered, enhancing release frequency and quality.
+
+## 11. Continuous Integration/Continuous Deployment (CI/CD):
+- Describe your experience setting up CI/CD pipelines for .NET applications. What tools have you used?
+- How do you ensure quality in your CI/CD process, especially in automated testing?
+### Answers
+- **Code Conflicts Management**: I use feature branches in Git to manage code changes, and I follow a clear pull request process for code reviews, ensuring any conflicts are addressed before merging.
+- **Implementing CI/CD**: I set up CI/CD pipelines using Azure DevOps, automating testing and deployment processes for .NET applications. This ensures that code is continuously integrated and delivered, enhancing release frequency and quality.
+
+## 11. Cloud Architecture and Services:
+- Can you explain how you would architect a cloud-based solution using Azure services? What factors do you consider in your design?
+- Describe a scenario where you optimized an application for cloud deployment. What changes did you make?
+### Answers
+- **Code Conflicts Management**: I use feature branches in Git to manage code changes, and I follow a clear pull request process for code reviews, ensuring any conflicts are addressed before merging.
+- **Implementing CI/CD**: I set up CI/CD pipelines using Azure DevOps, automating testing and deployment processes for .NET applications. This ensures that code is continuously integrated and delivered, enhancing release frequency and quality.
